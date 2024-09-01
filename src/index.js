@@ -1,6 +1,6 @@
 const { isFibonacci } = require('./utils/fibonacci');
 const { countLetterA } = require('./utils/stringUtils');
-const { calculateSom, completarSequences } = require('./utils/sequencias');
+const { calculateSum, completeSequences } = require('./utils/sequencias');
 
 // Verificação de número na sequência de Fibonacci
 const num = 13;
